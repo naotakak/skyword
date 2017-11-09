@@ -1,3 +1,10 @@
+'''
+Naotaka Kinoshita
+SoftDev1 Pd7
+K#13: A RESTful Journey Skyward
+2017-11-10
+'''
+
 from flask import Flask, render_template
 import urllib2
 import json
