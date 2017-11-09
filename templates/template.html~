@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <title>NASA stuff</title>
+  </head>
+
+  <body>
+    <img src={{ image }}></img>
+    <p>{{ caption }}</p>
+  </body>
+
+</html>
